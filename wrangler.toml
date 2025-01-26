@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev"
+name = "internetku"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+UUID = "80d23b9f-3d72-40b2-a7b7-2053404202fb"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
